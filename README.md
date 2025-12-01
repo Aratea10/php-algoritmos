@@ -1,4 +1,11 @@
 # PHP - Ejercicios con Algoritmos y formularios
+
+<div align="center">
+  
+  [![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+
+</div>
+
 Colección de ejercicios organizados por carpetas:
 - `ejercicio-1`: Algoritmos 5.2, 5.3 y 5.4 (conversión cm→pulgadas/pies, función por tramos, raíces de ecuación cuadrática).
 - `ejercicio-2`: Algoritmos 5.8, 5.9, 5.10 y dado con `rand()` (for, while, umbral S≥2, divisores, simulación de dado).
